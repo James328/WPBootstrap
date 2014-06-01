@@ -7,8 +7,8 @@ Template Name: Footer
   <div class="container">
     <hr />
     <footer>
-      <p class="pull-left">Copyright <?php bloginfo('name'); ?> &copy; 2013</p>
-      <p class="pull-right">Built by <a href="http://www.catapultcreativemedia.com/">Catapult Creative Media</a></p>
+      <p class="pull-left">Copyright <?php bloginfo('name'); ?> &copy; 2014</p>
+      <p class="pull-right">Built by <a href="https://github.com/James328/WPBootstrap">James Hume</a></p>
     </footer>
   </div>
 
