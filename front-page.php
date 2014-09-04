@@ -8,7 +8,7 @@ get_header(); ?>
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
         <?php
-        $include = get_pages('include=50');
+        $include = get_pages('include=2');
         $content = apply_filters('the_content',$include[0]->post_content);
         echo $content;
         ?>
